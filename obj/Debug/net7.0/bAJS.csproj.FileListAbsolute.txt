@@ -1,0 +1,14 @@
+C:\Users\adam.lysen\progamiss\bAJS\obj\Debug\net7.0\bAJS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adam.lysen\progamiss\bAJS\obj\Debug\net7.0\bAJS.AssemblyInfoInputs.cache
+C:\Users\adam.lysen\progamiss\bAJS\obj\Debug\net7.0\bAJS.AssemblyInfo.cs
+C:\Users\adam.lysen\progamiss\bAJS\obj\Debug\net7.0\bAJS.csproj.CoreCompileInputs.cache
+c:\Users\adam.lysen\progamiss\bAJS\bin\Debug\net7.0\bAJS.exe
+c:\Users\adam.lysen\progamiss\bAJS\bin\Debug\net7.0\bAJS.deps.json
+c:\Users\adam.lysen\progamiss\bAJS\bin\Debug\net7.0\bAJS.runtimeconfig.json
+c:\Users\adam.lysen\progamiss\bAJS\bin\Debug\net7.0\bAJS.dll
+c:\Users\adam.lysen\progamiss\bAJS\bin\Debug\net7.0\bAJS.pdb
+c:\Users\adam.lysen\progamiss\bAJS\obj\Debug\net7.0\bAJS.dll
+c:\Users\adam.lysen\progamiss\bAJS\obj\Debug\net7.0\refint\bAJS.dll
+c:\Users\adam.lysen\progamiss\bAJS\obj\Debug\net7.0\bAJS.pdb
+c:\Users\adam.lysen\progamiss\bAJS\obj\Debug\net7.0\bAJS.genruntimeconfig.cache
+c:\Users\adam.lysen\progamiss\bAJS\obj\Debug\net7.0\ref\bAJS.dll
